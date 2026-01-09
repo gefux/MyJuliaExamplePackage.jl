@@ -9,6 +9,7 @@ Documentation for [MyJuliaExamplePackage](https://github.com/gefux/MyJuliaExampl
 ```@index
 ```
 
+## The API (in full glory)
 ```@autodocs
 Modules = [MyJuliaExamplePackage]
 ```
